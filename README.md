@@ -40,7 +40,10 @@ To ensure the reliability and stability of the Logo Generator application, it is
 
 ## Screenshots/Videos
 
-![Screenshot/Video](video/Screen Recording 2024-05-09 at 10.34.58 AM.mov)
+
+https://github.com/pattyboyy/svg-logo-maker/assets/134738449/1dd53e88-b5f8-438c-9e04-765da7573378
+
+
 
 
 ## Questions
