@@ -1,0 +1,15 @@
+
+      <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+        
+        
+        <defs>
+          <linearGradient id="gradient1715272531047">
+            <stop offset="0%" stop-color="red" /><stop offset="100%" stop-color="blue" />
+          </linearGradient>
+        </defs>
+      
+        <circle cx="150" cy="100" r="80" fill="url(#gradient1715272531047)" />
+      
+        <text x="150" y="120" fill="white" text-anchor="middle" font-size="60" dominant-baseline="middle">USA</text>
+      </svg>
+    
