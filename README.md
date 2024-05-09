@@ -20,7 +20,7 @@ This is a personal SVG Logo Maker that I will be able to use for future projects
 
 ## Installation
 
-Make sure you have Node.js installed on your machine. This application requires Node.js version 12 or higher. Clone this repository to your local machine: https://github.com/pattyboyy/svg-logo-maker. https://github.com/pattyboyy/svg-logo-makerNavigate to the directory and install the dependencies. Once the installation is complete, you can run the application using the following command: "node index.js". Follow the prompts and provide the required inputs, such as the text, text color, shape, shape color, and gradient colors. After answering all the questions, the application will generate an SVG file named logo.svg in the project directory. Open the logo.svg file in a web browser or any SVG viewer to see your generated logo.
+Make sure you have Node.js installed on your machine. This application requires Node.js version 12 or higher. Clone this repository to your local machine: https://github.com/pattyboyy/svg-logo-maker. Navigate to the directory and install the dependencies. Once the installation is complete, you can run the application using the following command: "node index.js". Follow the prompts and provide the required inputs, such as the text, text color, shape, shape color, and gradient colors. After answering all the questions, the application will generate an SVG file named logo.svg in the project directory. Open the logo.svg file in a web browser or any SVG viewer to see your generated logo.
 
 ## Usage
 
@@ -36,7 +36,7 @@ Thank you for considering contributing to the Logo Generator project! We welcome
 
 ## Tests
 
-To ensure the reliability and stability of the Logo Generator application, it is important to run tests before submitting any changes. The project includes a test suite to verify the functionality of the application. Follow these steps to run the tests: Make sure you have installed all the dependencies by running the following command in the project directory:
+To ensure the reliability and stability of the Logo Generator application, it is important to run tests before submitting any changes. The project includes a test suite to verify the functionality of the application. Follow these steps to run the tests: Make sure you have installed all the dependencies by running the following command in the project directory: "npm install". Run the test suite using the following command: "npm test". The test results will be displayed in the console, indicating the number of tests passed, failed, or skipped. If any tests fail, the console output will provide details about the specific test cases that failed and the reasons for the failure. Review the test results carefully. If any tests fail, investigate the cause of the failure and make necessary corrections to your code. If you have added new features or made significant changes to the existing codebase, it is recommended to add corresponding test cases to ensure the correctness of your changes. You can add new test files or modify existing ones in the test directory.
 
 ## Screenshots/Videos
 
